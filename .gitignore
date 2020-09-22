@@ -4,7 +4,9 @@
 *.log
 *.iml
 .DS_Store
+dependency-reduced-pom.xml
 
+pyspark.zip
 target/
 checkpoint/
 /build/*

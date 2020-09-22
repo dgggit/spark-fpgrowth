@@ -1,2 +1,11 @@
 *.class
+.idea/
+*.class
 *.log
+*.iml
+.DS_Store
+
+target/
+checkpoint/
+/build/*
+/work/

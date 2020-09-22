@@ -11,3 +11,4 @@ target/
 checkpoint/
 /build/*
 /work/
+/conf/
